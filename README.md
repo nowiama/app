@@ -1,2 +1,2 @@
 # app
-app Linux app and package manager.
+Linux app and package manager.
